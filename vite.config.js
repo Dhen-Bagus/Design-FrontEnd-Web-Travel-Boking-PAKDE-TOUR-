@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/Design-FrontEnd-Web-Travel-Boking-PAKDE-TOUR-/'
+  base: './'   // ← GANTI JADI INI (titik dan garis miring)
 })
